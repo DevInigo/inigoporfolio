@@ -105,7 +105,7 @@ let resumeData = {
     "portfolio":[
       {
         "name": "ApiPrestashop",
-        "description": "Extensión de la API REST de PrestaShop diseñada para mejorar la integración de datos con plataformas externas como Rfmcube. Incluye endpoints personalizados como 'detailedorders' para mayor granularidad en la información de pedidos.",
+        "description": "Extensión de la API REST de PrestaShop diseñada para mejorar la integración de datos con plataformas externas. Incluye endpoints personalizados.",
         "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1751019776/prestaApi_f8qcyw.png",
         "url": "",
         "giturlf": "https://github.com/luthiwd/iagtapi"
