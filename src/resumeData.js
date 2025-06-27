@@ -49,7 +49,12 @@ let resumeData = {
           "MonthOfEnter": "Apr",
           "MonthOfLeaving": "Now",
           "YearOfLeaving": "2023",
-          "Achievements": `Diseño e implementación de servicios backend en PrestaShop y Magento 2. Desarrollo de una API REST completa con Node.js y JWT para integración externa. Automatización de tareas mediante procesos en segundo plano. Liderazgo técnico en proyectos para empresas como Flex, Dentaid o TCM.`
+          "Achievements": `Lideré el desarrollo de APIs REST en Node.js para clientes como Flex y Dentaid, integrando SAP y automatizando procesos críticos. 
+          Desarrollé una API REST desde cero con autenticación JWT, optimizando el acceso a productos, pedidos y clientes.
+          Refactoricé módulos backend hacia servicios desacoplados aplicando arquitectura modular y principios SOLID.
+          Construí herramientas de importación masiva mediante CSV y CRUDs AJAX para interfaces administrativas.
+          Coordiné la gestión completa de proyectos para clientes como Flex, Dentaid, TCM, Servovendi y Alfadyser, gestionando tareas en Jira y liderando sprints técnicos.
+          `
         },
 
       {
