@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel, SiNextdotjs, SiMagento, SiPHP} from 'react-icons/si'
+import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel, SiNextdotjs, SiMagento, SiPhp} from 'react-icons/si'
 import { FaHtml5, FaCss3Alt, FaNodeJs, FaBootstrap, FaWordpress, FaGitSquare, FaGithub, FaStripe } from 'react-icons/fa'
 
 export default class Resume extends Component {
@@ -121,7 +121,7 @@ export default class Resume extends Component {
             <li className="hard-li" title="Wordpress"><FaWordpress style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Prestashop"><SiPrestashop style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Magento"><SiMagento style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="PHP"><SiPHP style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="PHP"><SiPhp style={{fontSize: "45px"}}/></li>
           </ul>
         </div>
       </div>
