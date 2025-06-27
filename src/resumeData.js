@@ -104,6 +104,13 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name": "ApiPrestashop",
+        "description": "Extensión de la API REST de PrestaShop diseñada para mejorar la integración de datos con plataformas externas como Rfmcube. Incluye endpoints personalizados como 'detailedorders' para mayor granularidad en la información de pedidos.",
+        "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1751019776/prestaApi_f8qcyw.png",
+        "url": "",
+        "giturlf": "https://github.com/luthiwd/iagtapi"
+      },
+      {
         "name":"Cats",
         "description":"Esquiva Cthulus y captura latas, puedes montarte en una Conga!!!",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/cats_ifnaqy.png",
