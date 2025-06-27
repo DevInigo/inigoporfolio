@@ -82,24 +82,14 @@ let resumeData = {
     ],
     "skillsDescription":"",
     "skills":[ 
-      {
-        "skillname":"Comunicación técnica"
-      },
-      {
-        "skillname":"Resolución de problemas"
-      },
-      {
-        "skillname":"Aprendizaje continuo"
-      },
-      {
-        "skillname":"Flexibilidad y adaptabilidad"
-      },
-      {
-        "skillname":"Trabajo en Equipo"
-      },
-      {
-        "skillname":"Gestión de tiempo"
-      },
+      { "skillname": "Pensamiento analítico" },
+      { "skillname": "Resolución de problemas complejos" },
+      { "skillname": "Comunicación técnica" },
+      { "skillname": "Colaboración interdisciplinar" },
+      { "skillname": "Gestión del tiempo" },
+      { "skillname": "Adaptabilidad a nuevas tecnologías" },
+      { "skillname": "Atención al detalle" },
+      { "skillname": "Documentación de APIs" }
     
     ],
     "portfolio":[
