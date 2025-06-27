@@ -106,7 +106,7 @@ let resumeData = {
       {
         "name": "ApiPrestashop",
         "description": "Extensión de la API REST de PrestaShop diseñada para mejorar la integración de datos con plataformas externas. Incluye endpoints personalizados.",
-        "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1751019776/prestaApi_f8qcyw.png",
+        "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1751021910/prestaapi_er9ssx.png",
         "url": "",
         "giturlf": "https://github.com/DevInigo/iagtapi"
       },
